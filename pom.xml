@@ -62,14 +62,15 @@
     </build>
 
     <distributionManagement>
-        <repository>
-            <id>exchange</id>
-            <name>Exchange</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v1/organizations/142ebe1a-6e25-4670-9220-0cdce791f1b8/maven</url>
-        </repository>
+      <repository>
+        <id>anypoint-exchange-v2</id>
+        <name>Anypoint Exchange</name>
+        <url>https://maven.anypoint.mulesoft.com/api/v2/maven</url>
+        <layout>default</layout>
+      </repository>
     </distributionManagement>
 
-	<repositories>
+	  <repositories>
         <repository>
             <id>Central</id>
             <name>Central</name>
