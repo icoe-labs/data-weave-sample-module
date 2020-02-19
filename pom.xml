@@ -5,9 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.icoegroup</groupId>
+    <groupId>2a820a70-e288-4676-9e05-a49ee678faa7</groupId>
     <artifactId>string-utils-weave-module</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <description>This example shows how to deploy a DataWeave Component</description>
 
