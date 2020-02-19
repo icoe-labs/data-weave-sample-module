@@ -49,14 +49,14 @@
                 <configuration>
                     <logForkedProcessCommand>true</logForkedProcessCommand>
                 </configuration>
-                <!-- <executions>
+                <executions>
                     <execution>
                         <phase>test</phase>
                         <goals>
                             <goal>test</goal>
                         </goals>
                     </execution>
-                </executions> -->
+                </executions>
             </plugin>
         </plugins>
     </build>
@@ -68,7 +68,7 @@
             <url>https://maven.anypoint.mulesoft.com/api/v1/organizations/142ebe1a-6e25-4670-9220-0cdce791f1b8/maven</url>
         </repository>
     </distributionManagement>
-	
+
 	<repositories>
           <repository>
             <id>Central</id>
